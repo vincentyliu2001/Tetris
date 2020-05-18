@@ -13,8 +13,14 @@ import time
 import graphics
 import pygame
 ```
+### DAS ARR:
+See https://tetris.fandom.com/wiki/DAS  for explanations
+```DAS``` is set to a default 70 in Tetris  
+To set a custom ```DAS```, change ```line 109``` in ```main.py``` to ```das = <your DAS> / 1000```  
+```ARR``` is hard set at 0, you cannot change this, maybe future implementations of the game will allow for customization  
+
 ### Controls:
-Note: These are my personal keybinds 
+Note: These are my personal keybinds  
 ```up_arrow_key```: rotate clockwise once  
 ```down_arrow_key```: soft drop  
 ```right_arrow_key```: move right  
