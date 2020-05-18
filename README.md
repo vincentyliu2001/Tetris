@@ -30,7 +30,7 @@ a user friendly way of creating custom keybinds.
 If you want to make your own here are the locations of the key binds, change
 all of the locations to the desired key bind to change the key:  
 ```up_arrow_key```: ```line 79``` in ```pieces.py```  
-```down_arrow_key```: ```line 91``` and ```line 100``` in ```pieces.py```
+```down_arrow_key```: ```line 91``` and ```line 100``` in ```pieces.py```  
 ```right_arrow_key```:  ```line 75``` in ```pieces.py``` and ```line 198``` and ```line 212``` in ```main.py```  
 ```left_arrow_key```: ```line 71``` in ```pieces.py``` and ```line 205``` and ```line 215``` in ```main.py```  
 ```z```: ```line 83``` in ```pieces.py```  
