@@ -1,7 +1,6 @@
 import neat
 import os
 from copy import deepcopy
-# Set up the drawing window
 import AI_helper
 import graphics
 import random
