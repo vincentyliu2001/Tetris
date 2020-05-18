@@ -14,7 +14,7 @@ import graphics
 import pygame
 ```
 ### DAS ARR:
-See https://tetris.fandom.com/wiki/DAS  for explanations
+See https://tetris.fandom.com/wiki/DAS  for explanations  
 ```DAS``` is set to a default 70 in Tetris  
 To set a custom ```DAS```, change ```line 109``` in ```main.py``` to ```das = <your DAS> / 1000```  
 ```ARR``` is hard set at 0, you cannot change this, maybe future implementations of the game will allow for customization  
