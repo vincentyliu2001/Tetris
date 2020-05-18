@@ -1,5 +1,3 @@
-# Set up the drawing window
-
 import graphics
 import random
 import pieces
@@ -281,5 +279,6 @@ def game():
     pygame.quit()
 
 
-# run the game!
-game()
+if __name__ == '__main__':
+    # run the game!
+    game()
