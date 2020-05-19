@@ -69,7 +69,7 @@ The ```neat_configs``` are the configurations I used to train the AI and the con
 See https://neat-python.readthedocs.io/en/latest/ for more detailed documentation  
 
 ### Potential Errors:
-1. PyCharm bug: PyCharm can't recognize imports but the program runs perfectly
+1. PyCharm bug: PyCharm can't recognize imports but the program runs perfectly. Moving all files to main Project directory seems to solve the issue  
 2. No other Errors have been detected, everything should run smoothly
 
 ### Future Plans:
